@@ -1,0 +1,23 @@
+{
+  "name": "trabalho-playwright",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NotCrazyDog-hub/trabalho-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/NotCrazyDog-hub/trabalho-playwright/issues"
+  },
+  "homepage": "https://github.com/NotCrazyDog-hub/trabalho-playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.59.1",
+    "@types/node": "^25.6.0"
+  }
+}
